@@ -1,5 +1,5 @@
 # telerik-rest
-[Testing REST API Using Test Studio](https://www.telerik.com/support/code-library/testing-rest-api-using-test-studio) originally posterd November 19, 2013.
+[Testing REST API Using Test Studio](https://www.telerik.com/support/code-library/testing-rest-api-using-test-studio) originally posted November 19, 2013.
 
 ## PROJECT DESCRIPTION 
 This project makes use of the new
